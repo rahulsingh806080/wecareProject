@@ -39,7 +39,7 @@ const Footer = () => {
                     </div>
                     <div className="text">
                       <p>
-                        Matrimeru is a leading startup Group. Matrimeru as a
+                        WeCare is a leading startup Group. WEcare as a
                         techno-commerical organization utilize the talent and
                         expertise developed in the various organization.
                       </p>
@@ -106,13 +106,13 @@ const Footer = () => {
                         <li>
                           <h5>Mobile:</h5>
                           <p>
-                            <b>+91 &nbsp;7022545338 </b>
+                            <b>+91 &nbsp;9860223623 </b>
                           </p>
                         </li>
                         <li>
                           <h5>Email:</h5>
                           <p>
-                            <strong>connect@matrimeru.com</strong>
+                            <strong>connect@wecare.com</strong>
                           </p>
                         </li>
                       </ul>
@@ -132,12 +132,6 @@ const Footer = () => {
                               <img src={sae} alt="" />
                             </a>
                           </figure>
-                          <h4>
-                            <a href="">Ecommerce Website </a>
-                          </h4>
-                          <span className="post-date">
-                            <i className="far fa-calendar"></i>March 21, 2020
-                          </span>
                         </div>
                       </div>
                     </div>
@@ -153,7 +147,7 @@ const Footer = () => {
               <div className="copyright pull-left">
                 <p>
                   Copyright © 2020 All Rights Reserved by{" "}
-                  <a href="index.php">Matrimeru Pvt Ltd 2020</a>.
+                  <a href="index.php">Wecare Pvt Ltd 2020</a>.
                 </p>
               </div>
               <ul className="social-links pull-right">

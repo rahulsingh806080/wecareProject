@@ -44,43 +44,52 @@ const HomeAbout = (props) => {
                 <div className="content-box">
                   <div className="sec-title">
                     <h6>
-                      <i className="flaticon-roof-1"></i>About Company
+                      <i className="flaticon-roof-1"></i>Welcome to Wecare
                     </h6>
                   </div>
                   <div className="text">
                     <p>
-                      Matimoni is a leading startup Group .Macona is a
-                      technology driven consultancy and organisation with strong
-                      global presence in the field of{" "}
-                      <strong>
-                        Software engineering and software testing,Infrastructure
-                        development, and business process outsourcing(BPO),
-                      </strong>{" "}
+                      ..the home of real cleaner. We have been working to make
+                      your work place beautiful, clean and healthy.{" "}
                     </p>
+                  </div>
+                  <div className="sec-title">
+                    <h6>
+                      <i className="flaticon-roof-1"></i>Our Vision
+                    </h6>
+                  </div>
+                  <div className="text">
                     <p>
-                      Matrimeru as a techno-commerical organization utilize the
-                      talent and expertise developed in the various organization
-                      of Government of India and state Government and we also
-                      work on out sourcing projects.
+                      WEcare wants to be trusted partner of millions of families
+                      across the globe...
+                    </p>
+                  </div>
+                  <div className="sec-title">
+                    <h6>
+                      <i className="flaticon-roof-1"></i>Covid19 Response
+                    </h6>
+                  </div>
+                  <div className="text">
+                    <p>
+                      WEcare protect you against harmful germs , viruses and
+                      bacterias{" "}
+                    </p>
+                  </div>
+                  <div className="sec-title">
+                    <h6>
+                      <i className="flaticon-roof-1"></i>Our social Resonsibilty
+                    </h6>
+                  </div>
+                  <div className="text">
+                    <p>
+                      WEcare spread awareness about health hygiene in
+                      school,public places.{" "}
                     </p>
                   </div>
                   <div className="area-code"></div>
                   <h4>
-                    or make a call to <a href="tel:18005556677">7022545388</a>
+                    or make a call to <a href="tel:18005556677">9860223623</a>
                   </h4>
-                  <div className="btn-box clearfix">
-                    <a href="about.php" className="theme-btn">
-                      Read More<i className="flaticon-login"></i>
-                    </a>
-                    <a
-                      href=""
-                      className="lightbox-image video-btn"
-                      data-caption=""
-                    >
-                      <i className="fas fa-play"></i>Video About IT &amp;
-                      Software Developnment.
-                    </a>
-                  </div>
                 </div>
               </div>
             </div>

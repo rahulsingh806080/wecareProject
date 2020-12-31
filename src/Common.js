@@ -12,10 +12,12 @@ const Common = (props) => {
                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                   <h1>
                     {props.name}
-                    <strong className="brand-name"> MatriMeru Tech</strong>
+                    <strong className="brand-name"> WEcare </strong>
                   </h1>
                   <h2 className="my-3">
-                    We are the team of talented developer for making websites.
+                    WEcare entered in indian market in 2020. Wecare have trusted
+                    partners i.e families,Hospitals,Hotels, Schools,
+                    Banquets,Mall, Industries Banks and many more....
                   </h2>
                   <div className="mt-3">
                     <NavLink to={props.visit} className="btn-get-started">

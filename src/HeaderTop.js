@@ -16,7 +16,7 @@ const HeaderTop = (props) => {
                   >
                     <i className="fa fa-phone "></i>
                     <span className="mdi-communication-call mbr-iconfont mbr-iconfont-btn"></span>
-                    &nbsp; Call Us Now: +91 7022545388
+                    &nbsp; Call Us Now: +91 9860223623
                   </a>
                   <a
                     className="content-link link mbr-black text-white "
@@ -24,7 +24,7 @@ const HeaderTop = (props) => {
                   >
                     <i className="fa fa-envelope" aria-hidden="true"></i>
                     <span className="mdi-communication-email mbr-iconfont mbr-iconfont-btn"></span>
-                    &nbsp; Email: connect@matrimeru.com
+                    &nbsp; Email: connect@wecare.com
                   </a>
                 </div>
 
